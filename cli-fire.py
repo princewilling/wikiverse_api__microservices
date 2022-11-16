@@ -2,7 +2,6 @@
 # tells it to run as a script
 
 import fire
-from source.logic import wiki
 from source import logic
 
 if __name__ == "__main__":
